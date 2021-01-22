@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Camera & Gallery',
       theme: ThemeData(
-        primarySwatch: Colors.indigo,
+        primarySwatch: Colors.lightGreen,
       ),
       debugShowCheckedModeBanner: false,
       home: HomePage(),
